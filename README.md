@@ -1,6 +1,6 @@
 
-Video Super-Resolution with Inverse Recurrent Net and Hybrid Local Fusion
-Dingyi Li, Zengfu Wang and Jian Yang
+Video Super-Resolution with Inverse Recurrent Net and Hybrid Local Fusion,
+Dingyi Li, Zengfu Wang and Jian Yang,
 Neurocomputing, 2022
 
 The code is based on the code of EDVR, RRN and RSDN.
