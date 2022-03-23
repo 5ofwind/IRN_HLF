@@ -1,6 +1,6 @@
 This is the code for our paper:
 
-Li, Dingyi, Zengfu Wang, and Jian Yang. "Video Super-Resolution with Inverse Recurrent Net and Hybrid Local Fusion." Neurocomputing (2022).
+Dingyi Li, Zengfu Wang, and Jian Yang. "Video Super-Resolution with Inverse Recurrent Net and Hybrid Local Fusion." Neurocomputing (2022).
 
 https://www.sciencedirect.com/science/article/pii/S0925231222002880
 
