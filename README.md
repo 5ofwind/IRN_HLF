@@ -16,3 +16,7 @@ python RSDN.py (test RSDN_BD)
 For training, use:
 python train.py (train IRN_3stages)
 python train_cascade.py (train IRN_3stages_cascade and also use it for IRN_3stages_parallel_cascade)
+
+The models for our IRN, EDVR and RSDN can be found at 
+https://pan.baidu.com/s/1sinco1rBm3ptdYAV9TH1ow
+The password is: iraj
