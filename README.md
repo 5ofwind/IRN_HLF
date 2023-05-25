@@ -7,6 +7,7 @@ https://www.sciencedirect.com/science/article/pii/S0925231222002880
 The code is based on PyTorch, and the code of EDVR, RRN and RSDN.
 
 
+
 For testing, use:
 
 python test_IRN_2stages.py (test IRN_2stages)
@@ -22,11 +23,13 @@ python EDVR/BD_test_Vid4_REDS4_with_GT_2_Stage2.py (test IRN_3stages_parallel_ca
 python test_RSDN.py (test RSDN_BD)
 
 
+
 For training, use:
 
 python train.py (train IRN_3stages)
 
 python train_cascade.py (train IRN_3stages_cascade and also use it for IRN_3stages_parallel_cascade)
+
 
 
 The models for our IRN, EDVR and RSDN can be found at 
