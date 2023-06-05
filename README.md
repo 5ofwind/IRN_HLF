@@ -1,6 +1,4 @@
-# IRN-HLF
-
-# Video Super-Resolution with Inverse Recurrent Net and Hybrid Local Fusion
+# Video Super-Resolution with Inverse Recurrent Net and Hybrid Local Fusion (IRN-HLF)
 
 This is the code for our paper:
 
