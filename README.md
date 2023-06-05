@@ -1,5 +1,7 @@
 # IRN-HLF
 
+# Video Super-Resolution with Inverse Recurrent Net and Hybrid Local Fusion
+
 This is the code for our paper:
 
 Li, Dingyi, Zengfu Wang, and Jian Yang. "Video super-resolution with inverse recurrent net and hybrid local fusion." Neurocomputing 489 (2022): 40-51.
