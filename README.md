@@ -20,7 +20,7 @@ matlab: fuse.m (for IRN_3stages_parallel)
 
 python EDVR/BD_test_Vid4_REDS4_with_GT_2_Stage2.py (test IRN_3stages_parallel_cascade)
 
-python test_RSDN.py (test RSDN_BD)
+python test_RSDN.py (test RSDN_BD for comparison)
 
 # For training, use:
 
