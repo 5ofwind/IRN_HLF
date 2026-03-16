@@ -8,6 +8,10 @@ https://www.sciencedirect.com/science/article/pii/S0925231222002880
 
 The code is based on PyTorch, and the code of EDVR, RRN and RSDN.
 
+# Abstract
+
+Video super-resolution converts low-resolution videos to sharp high-resolution ones. In order to make better use of temporal information in video super-resolution, we design inverse recurrent net and hybrid local fusion. We concatenate the original low-resolution input sequence and its inverse sequence repeatedly. The new sequence is viewed as a combination of different stages, and is processed sequentially by using our inverse recurrent net. The outputs of the last two stages in opposite directions are fused to generate the final images. Our inverse recurrent net can extract more bidirectional temporal information in the input sequence, without adding parameter to the corresponding unidirectional recurrent net. We also propose a hybrid local fusion method which uses parallel fusion and cascade fusion for incorporating sliding-window-based methods into our inverse recurrent net. Extensive experimental results demonstrate the effectiveness of the proposed inverse recurrent net and hybrid local fusion, in terms of visual quality and quantitative evaluations.
+
 # For testing, use:
 
 python test_IRN_2stages.py #(test IRN_2stages)
